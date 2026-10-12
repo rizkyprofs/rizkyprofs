@@ -123,7 +123,7 @@ flowchart LR
 └─────────────────────────────────────────────┘
 ```
 
-> Ganti diagram di atas dengan setup homelab kamu yang sebenarnya.
+>>> 
 
 ---
 
