@@ -23,7 +23,7 @@
 ## 👨‍💻 Tentang Saya
 
 ```yaml
-name: Nama Kamu
+name: Rizky
 role: DevOps Engineer
 location: Bandung, Indonesia 🇮🇩
 focus: [CI/CD, Kubernetes, IaC, Observability, DevSecOps]
