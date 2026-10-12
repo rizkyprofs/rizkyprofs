@@ -168,7 +168,7 @@ flowchart LR
 ## 🏅 Sertifikasi
 
 <!-- Hapus yang belum kamu punya, tambahkan yang sudah -->
-[![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Admin-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
+[![CKA](https://img.shields.io/badge/CKA-C-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 [![Terraform](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](#)
 
