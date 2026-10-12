@@ -145,7 +145,7 @@ flowchart LR
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=rizkyprofs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyprofs&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=rizkyprofs&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -158,7 +158,7 @@ flowchart LR
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizkyprofs/rizkyprofs/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizkyprofs/rizkyprofs/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/rizkyprofs/rizkyprofs/output/github-snake.svg" />
 </picture>
 
 </div>
