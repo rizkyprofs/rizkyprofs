@@ -13,9 +13,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=0e75b6&style=flat-square)
-![Followers](https://img.shields.io/github/followers/USERNAME?style=flat-square&logo=github&color=2c5364)
-![Stars](https://img.shields.io/github/stars/USERNAME?style=flat-square&logo=github&color=2c5364)
+![Profile Views](https://komarev.com/ghpvc/?username=rizkyprofs&label=Profile+Views&color=0e75b6&style=flat-square)
+
 
 </div>
 
